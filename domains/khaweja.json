@@ -1,0 +1,10 @@
+{
+  "description": "My restaurant menu website",
+  "repo": "https://github.com/ali-foo/restaurant_menu",
+  "owner": {
+    "username": "ali-foo"
+  },
+  "record": {
+    "CNAME": "ali-foo.github.io"
+  }
+}
